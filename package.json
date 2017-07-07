@@ -1,0 +1,24 @@
+{
+  "name": "headless-chrome-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr2m/headless-chrome-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr2m/headless-chrome-test/issues"
+  },
+  "homepage": "https://github.com/gr2m/headless-chrome-test#readme",
+  "devDependencies": {
+    "simple-headless-chrome": "^2.5.10",
+    "tap": "^10.7.0"
+  }
+}
