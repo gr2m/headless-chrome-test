@@ -17,3 +17,5 @@ which is utilising async/await. Previous Node versions lack support for it
 npm install
 npm test
 ```
+
+## Notes on Travis CI
