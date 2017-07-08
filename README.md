@@ -6,7 +6,7 @@
 
 ## Requirements
 
-You must have Node 59+ installed as this is the version that [introduced the
+You must have Chrome 59+ installed as this is the version that [introduced the
 headless feature](https://developers.google.com/web/updates/2017/04/headless-chrome).
 
 You also need Node 7.6+ for the test to run as this example is using
