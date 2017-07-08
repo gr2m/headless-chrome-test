@@ -2,6 +2,8 @@
 
 > Example of how to use headless Chrome in your tests & CI
 
+[![Build Status](https://travis-ci.org/gr2m/headless-chrome-test.svg?branch=master)](https://travis-ci.org/gr2m/headless-chrome-test)
+
 ## Requirements
 
 You must have Node 59+ installed as this is the version that [introduced the
