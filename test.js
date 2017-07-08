@@ -3,7 +3,7 @@ const test = require('tap').test
 
 test('Headless Chrome', async function (group) {
   const browser = new HeadlessChrome({
-    headless: false
+    headless: true
   })
   await browser.init()
 
